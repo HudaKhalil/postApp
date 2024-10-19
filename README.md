@@ -1,2 +1,2 @@
-# post_comment_app
+# postApp
 Posting and commenting app
