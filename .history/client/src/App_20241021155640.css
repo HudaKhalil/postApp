@@ -42,7 +42,7 @@ body {
   flex: 60%;
   display: grid;
   place-content:left;
-  overflow-wrap:normal;
+  word-wrap:word-wrap;
 }
 
 .post .footer {

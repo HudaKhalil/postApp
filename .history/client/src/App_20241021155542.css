@@ -41,8 +41,8 @@ body {
 .post .body {
   flex: 60%;
   display: grid;
-  place-content:left;
-  overflow-wrap:normal;
+  place-content: center;
+  word-wrap:break-word;
 }
 
 .post .footer {

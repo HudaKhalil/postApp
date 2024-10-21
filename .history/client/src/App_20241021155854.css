@@ -43,7 +43,6 @@ body {
   display: grid;
   place-content:left;
   overflow-wrap:normal;
-}
 
 .post .footer {
   flex: 20%;

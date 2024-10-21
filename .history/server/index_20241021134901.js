@@ -6,8 +6,6 @@ const cors = require('cors');
 //Fix issues of parsing using express
 app.use(express.json());
 
-app.use(cors());
-
 const db = require("./models");
 
 //Routers, the middleware

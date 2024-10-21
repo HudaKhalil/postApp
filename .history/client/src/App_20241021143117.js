@@ -15,8 +15,8 @@ function App() {
     <div className="App">
       {listOfPosts.map((value, key) => {
         return (
-          <div key = {value.id} className="post">
-            <div className="title"> {value.title} </div>
+          <div className="post">
+            <div key = {value.id} className="title"> {value.title} </div>
             <div className="body">{value.postText}</div>
             <div className="footer">{value.username}</div>
           
